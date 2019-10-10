@@ -1,0 +1,64 @@
+{
+	"battleId": "",
+	"interrupt": 0,
+	"giveUp": 0,
+	"percent": 100,
+	"completeState": 3,
+	"killCnt": 11,
+	"battleData": {
+		"isCheat": "",
+		"completeTime": 100,
+		"stats": {
+			"killedEnemiesCnt": 11,
+			"unnatrualRecoveredCost": 22,
+			"charStats": [],
+			"enemyStats": [{
+				"Key": {
+					"enemyId": "enemy_1007_slime",
+					"counterType": "ENCOUNTER"
+				},
+				"Value": 10
+			}, {
+				"Key": {
+					"enemyId": "enemy_1007_slime",
+					"counterType": "HP_ZERO"
+				},
+				"Value": 10
+			}, {
+				"Key": {
+					"enemyId": "enemy_1002_nsabr",
+					"counterType": "ENCOUNTER"
+				},
+				"Value": 1
+			}, {
+				"Key": {
+					"enemyId": "enemy_1002_nsabr",
+					"counterType": "HP_ZERO"
+				},
+				"Value": 1
+			}],
+			"skillTrigStats": [{
+				"Key": "skcom_magic_rage[3]",
+				"Value": 1
+			}],
+			"charAdvancedStats": {},
+			"enemyAdvancedStats": {},
+			"charList": {},
+			"enemyList": {
+				"enemy_1007_slime": [
+					[550.0, 130.0, 0.0, 0.0, 100.0, 1.7, 1.0]
+				],
+				"enemy_1002_nsabr": [
+					[1650.0, 200.0, 30.0, 0.0, 100.0, 2.0, 1.1]
+				]
+			},
+			"beginTs": 0,
+			"endTs": 0,
+			"access": "",
+			"packageName": "com.hypergryph.arknights",
+			"idList": [],
+			"autoReplayCancelled": 0
+		}
+	},
+	"platform": 1
+}

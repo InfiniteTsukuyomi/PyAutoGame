@@ -1,0 +1,58 @@
+{
+	"battleId": "",
+	"interrupt": 0,
+	"giveUp": 0,
+	"percent": 100,
+	"completeState": 3,
+	"killCnt": 3,
+	"battleData": {
+		"isCheat": "",
+		"completeTime": 100,
+		"stats": {
+			"killedEnemiesCnt": 3,
+			"unnatrualRecoveredCost": 0,
+			"charStats": [{
+				"Key": {
+					"charId": "char_102_texas",
+					"counterType": "SPAWN"
+				},
+				"Value": 1
+			}, {
+				"Key": {
+					"charId": "char_103_angel",
+					"counterType": "SPAWN"
+				},
+				"Value": 1
+			}],
+			"enemyStats": [{
+				"Key": {
+					"enemyId": "enemy_1002_nsabr",
+					"counterType": "ENCOUNTER"
+				},
+				"Value": 3
+			}, {
+				"Key": {
+					"enemyId": "enemy_1002_nsabr",
+					"counterType": "HP_ZERO"
+				},
+				"Value": 3
+			}],
+			"skillTrigStats": [],
+			"charAdvancedStats": {},
+			"enemyAdvancedStats": {},
+			"charList": {},
+			"enemyList": {
+				"enemy_1002_nsabr": [
+					[1350.0, 100.0, 0.0, 0.0, 100.0, 2.0, 1.1]
+				]
+			},
+			"beginTs": 0,
+			"endTs": 0,
+			"access": "",
+			"packageName": "com.hypergryph.arknights",
+			"idList": [],
+			"autoReplayCancelled": 0
+		}
+	},
+	"platform": 1
+}
